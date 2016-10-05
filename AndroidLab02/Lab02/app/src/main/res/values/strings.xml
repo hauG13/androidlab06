@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">RenuchanCalculator</string>
+    <string name="loanAmount">Loan Amount</string>
+    <string name="loanTerm">Term of Loan(years)</string>
+    <string name="yearlyInterestRate">Yearly Interest Rate</string>
+    <string name="calculateBtn">Calculate</string>
+    <string name="clearBtn">Clear</string>
+    <string name="resultTxt">Results</string>
+    <string name="titleTxt">Loan Calculator</string>
+    <string name="monthlyPaymentLbl">Monthly Payment</string>
+    <string name="totalPaymentLbl">Total Payment</string>
+    <string name="totalInterestLbl">Total Interest</string>
+</resources>
